@@ -14,3 +14,8 @@ Installation
  - Open URP Asset → Renderer → enable Opaque Texture.
 - Create a material using Custom/Puddles shader.
 - Adjust material properties.
+
+Graph
+
+<img width="1613" height="1170" alt="image" src="https://github.com/user-attachments/assets/12c56978-5e8d-4930-bc23-a5137d1ce3f9" />
+
